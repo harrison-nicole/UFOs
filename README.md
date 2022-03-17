@@ -31,4 +31,4 @@ Here is an example of two filter criteria utilized at one time, which helps the 
 ![](static/images/twofilters.png)
 
 ## Summary 
-
+While this webpage is a great resource for filtering UFO sightings by multiple criteria at once, it's important to recognize that one drawback of the webpage is that the filter function looks for an exact match and will not find entries that are similar or like the input criteria. This requires significant attention to format of input criteria. One recommendation to further enhance this webpage would be to include duration as a filter criteria. Another recommendation is to allow filtering on the comments field based on "like" text.
