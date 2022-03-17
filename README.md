@@ -16,19 +16,19 @@ The webpage also includes high level information related to UFO sightings, inclu
 
 Upon accessing the webpage, users will see the following view:
 
-![](images/fullsiteview.png)
+![](static/images/fullsiteview.png)
 
 The filters section includes the criteria listed above and also has placeholder text to show the format of input needed:
 
-![](images/filters.png)
+![](static/images/filters.png)
 
 The user can filter by multiple criteria at one time. Here is an example of one filter applied: 
 
-![](images/onefilter.png)
+![](static/images/onefilter.png)
 
 Here is an example of two filter criteria utilized at one time, which helps the user focus the search to specified criteria (in this case, state: "wi" and shape: "disk"):
 
-![](images/twofilters.png)
+![](static/images/twofilters.png)
 
 ## Summary 
 
